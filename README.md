@@ -7,7 +7,7 @@ This config should normally be used in conjunction with [@emerson-eps/eslint-con
 ## Usage
 
 ```
-npm install --save-dev "git://github.com/emerson-eps/prettier-config.git#main"
+npm install --save-dev "https://github.com/emerson-eps/prettier-config.git#main"
 ```
 
 The simplest way to include the prettier config is to reference the shared prettier config in the `package.json` file:
