@@ -4,6 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/prettier-eps/eslint-config/blob/master/LICENSE)
 ![npm (scoped)](https://img.shields.io/npm/v/@emerson-eps/prettier-config)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 This is the home of the shared Emerson E&P Software Prettier config. For consistency this config should be used by all projects in E&P Software.
 
