@@ -1,7 +1,7 @@
 # Shared Prettier Config
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/emerson-eps/prettier-config/Node.js%20CI)](https://github.com/emerson-eps/prettier-config/actions)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/emerson-eps/prettier-config/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/emerson-eps/prettier-config/blob/main/LICENSE)
 [![npm (scoped)](https://img.shields.io/npm/v/@emerson-eps/prettier-config)](https://www.npmjs.com/package/@emerson-eps/prettier-config)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
