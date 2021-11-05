@@ -21,7 +21,7 @@
     "prettier.config.js"
   ],
   "scripts": {
-    "prettier": "prettier . --write",
+    "prettier:fix": "prettier . --write",
     "semantic-release": "semantic-release",
     "test": "prettier . --check"
   },
