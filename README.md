@@ -12,7 +12,7 @@ This config should normally be used in conjunction with [@emerson-eps/eslint-con
 
 ## Usage
 
-```
+```sh
 npm install --save-dev @emerson-eps/prettier-config
 ```
 
