@@ -15,8 +15,8 @@ module.exports = {
     {
       files: "cypress/**/*.ts",
       options: {
-        printWidth: 180
-      }
-    }
-  ]
+        printWidth: 180,
+      },
+    },
+  ],
 };
