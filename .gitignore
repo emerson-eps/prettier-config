@@ -2,3 +2,5 @@
 node_modules/
 # Ignore local build
 emerson-eps-prettier-config-*.tgz
+# snyk cache
+.dccache
