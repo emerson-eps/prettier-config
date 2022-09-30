@@ -1,6 +1,6 @@
 {
   "name": "@emerson-eps/prettier-config",
-  "version": "0.0.0-development",
+  "version": "1.0.4",
   "description": "Shared Prettier config for Emerson E&P Software",
   "keywords": [
     "prettier",
