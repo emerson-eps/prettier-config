@@ -26,7 +26,7 @@
     "test": "prettier . --check"
   },
   "devDependencies": {
-    "conventional-changelog-conventionalcommits": "^4.5.0",
+    "conventional-changelog-conventionalcommits": "^5.0.0",
     "prettier": "^2.7.1",
     "semantic-release": "^19.0.5"
   },
