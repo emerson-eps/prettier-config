@@ -40,6 +40,6 @@
     "preset": "conventionalcommits"
   },
   "volta": {
-    "node": "16.20.1"
+    "node": "18.16.1"
   }
 }
