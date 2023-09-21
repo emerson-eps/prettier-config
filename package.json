@@ -28,7 +28,7 @@
   "devDependencies": {
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "prettier": "^2.8.8",
-    "semantic-release": "^19.0.5"
+    "semantic-release": "^21.0.7"
   },
   "peerDependencies": {
     "prettier": "^2.8.8"
@@ -40,6 +40,6 @@
     "preset": "conventionalcommits"
   },
   "volta": {
-    "node": "18.16.1"
+    "node": "18.17.0"
   }
 }
