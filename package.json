@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "conventional-changelog-conventionalcommits": "^7.0.2",
-    "prettier": "^3.3.2",
+    "prettier": "^3.4.0",
     "semantic-release": "^22.0.12"
   },
   "peerDependencies": {
