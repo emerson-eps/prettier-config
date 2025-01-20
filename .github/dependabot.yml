@@ -13,4 +13,4 @@ updates:
       # Perform patch updates only
       - dependency-name: "*"
         update-types:
-          ["version-update:semver-major", "version-update:semver-minor"]
+          ["version-update:semver-major"]
