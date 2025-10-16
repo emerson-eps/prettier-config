@@ -34,11 +34,6 @@
     "prettier": "^3.6.2"
   },
   "release": {
-    "branches": [
-      "main",
-      "alpha",
-      "beta"
-    ],
     "preset": "conventionalcommits"
   },
   "volta": {
