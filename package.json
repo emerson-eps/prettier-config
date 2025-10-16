@@ -35,7 +35,9 @@
   },
   "release": {
     "branches": [
-      "main"
+      "main",
+      "alpha",
+      "beta"
     ],
     "preset": "conventionalcommits"
   },
