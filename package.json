@@ -37,6 +37,6 @@
     "preset": "conventionalcommits"
   },
   "volta": {
-    "node": "20.19.5"
+    "node": "22.21.1"
   }
 }
