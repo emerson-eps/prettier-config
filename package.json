@@ -27,16 +27,19 @@
   },
   "devDependencies": {
     "conventional-changelog-conventionalcommits": "^7.0.2",
-    "prettier": "^3.6.2",
+    "prettier": "^3.8.1",
     "semantic-release": "^22.0.12"
   },
   "peerDependencies": {
-    "prettier": "^3.6.2"
+    "prettier": "^3.8.1"
   },
   "release": {
-    "preset": "conventionalcommits"
+    "preset": "conventionalcommits",
+    "branches": [
+      "main"
+    ]
   },
   "volta": {
-    "node": "20.18.1"
+    "node": "22.22.0"
   }
 }
