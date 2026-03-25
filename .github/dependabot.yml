@@ -9,6 +9,10 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+    # Define commit message prefixes for different types of updates
+    commit-message:
+      prefix: fix
+      prefix-development: chore
     ignore:
       # Perform patch updates only
       - dependency-name: "*"
