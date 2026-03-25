@@ -26,18 +26,11 @@
     "test": "prettier . --check"
   },
   "devDependencies": {
-    "conventional-changelog-conventionalcommits": "^7.0.2",
     "prettier": "^3.8.1",
-    "semantic-release": "^22.0.12"
+    "semantic-release": "^25.0.3"
   },
   "peerDependencies": {
     "prettier": "^3.8.1"
-  },
-  "release": {
-    "preset": "conventionalcommits",
-    "branches": [
-      "main"
-    ]
   },
   "volta": {
     "node": "22.22.0"
